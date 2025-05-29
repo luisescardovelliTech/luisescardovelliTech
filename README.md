@@ -1,6 +1,6 @@
 # 👩🏻‍💻 Luis Felipe Escardovelli Silva
 
-**`Desenvolvedor BackEnd em Python`** 
+**`Desenvolvedor BackEnd`** 
 
 Me chamo Luís Felipe Escardovelli Silva, tenho 20 anos e sou natural do Estado de São Paulo. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Unisalesiano Arçatuba, sou apaixonado por tecnologia.
 
