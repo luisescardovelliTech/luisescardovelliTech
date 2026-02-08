@@ -87,24 +87,31 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-origi
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
 
-<br/>
-<br/>
-<hr/>
+<img 
+align="left" 
+    alt="Django" 
+    title="Django"
+    width="30px" 
+    style="padding-right: 10px;"
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" />
 
-### 📊 Estatísticas
 
-<p>
-  <img
-    alt="GitHub Stats" 
-    height="180" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=luisescardovelliTech&show_icons=true&theme=merko&include_all_commits=true&locale=pt-br" 
-  />
+<img 
+      align="left" 
+    alt="Tailwind" 
+    title="Tailwind"
+    width="30px" 
+    style="padding-right: 10px;"
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original-wordmark.svg" />
 
-<img  
-      alt="GitHub Langs" 
-      height="180" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=luisescardovelliTech&theme=merko&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
 
-</p>
+<img 
+            align="left" 
+    alt="Linux" 
+    title="Linux"
+    width="30px" 
+    style="padding-right: 10px;"
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
+          
+          
+
